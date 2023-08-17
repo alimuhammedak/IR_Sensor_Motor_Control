@@ -291,14 +291,5 @@ void loop() {
       break;
     }
   }
-  // If a message is received, this will be 1
-
-  // if(IR.decode()){ 
-  //   decode = IR.decodedIRData.decodedRawData; // Get the value of the IR reading
-  //   IR.resume(); // Receive the next value
-  //   delay(250);
-  //   Serial.println(decode);
-  // }
-
 
 }
